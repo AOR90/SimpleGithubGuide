@@ -3,7 +3,7 @@
 ### The easiest way to create your own repository is to start by making a GitHub repository and then cloning it into a local repository. That way, you dont run into issues with different branch names like Main and Master.
 
 1. Create a repository on GitHub
-	- Decide on a suitable names
+	- Decide on a suitable name
 	- Decide if you want your repository to be public or private
 	- Decide what license you want to use
 2. From your repository, click the green code button and copy the HTTPS link
