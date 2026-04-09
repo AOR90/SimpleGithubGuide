@@ -54,3 +54,7 @@
   - _git pull_
 - Push changes to remote repository
   - _git push_
+
+**GitHub specific actions**
+- Forking a repository means that you make a copy of someone else's repository and save the copy as a repository that you *own*
+- If you make changes to your fork of a repository, in order to submit those changes to the original repository. You have to create a pull request.
